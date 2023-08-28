@@ -18,13 +18,13 @@ Before doing so, you'll need to use the `-u` or `--set upstream` flag. This can 
 
 ```
 git push -u origin main
-``
+```
 
 After this command is used, you can use `git push` and it will function the same way.
 
 ##Resources
 
--[Git Push Documentation](https://git-scm.com/docs/git-push)
+- [Git Push Documentation](https://git-scm.com/docs/git-push)
 
 ---
 

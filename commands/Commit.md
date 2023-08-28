@@ -10,6 +10,7 @@ For example, if we have an application we're working on where we just built out 
 
 - [git commit] (./commands/Commit.md)
 git add.
+```
 git commit -m "Added register functionality"
 ```
 
